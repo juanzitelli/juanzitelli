@@ -10,26 +10,3 @@
 📫 How to reach me: Email me at juanzitelli@gmail.com or find me as _juanzitelli_ at regular social media!
 
 ⚡ Fun fact: I fell asleep for my first ever university group project exposition 💤💤💤
-
-## Tech stack 🤓
-### Programming languages
- - Python ⭐⭐⭐⭐
- - C# ⭐⭐⭐⭐
- - Javascript ⭐⭐⭐⭐
- - C/C++ ⭐⭐
- - PHP ⭐
-## Web frameworks / tools
- - Node.js ⭐⭐⭐
- - Flask  ⭐⭐⭐
- - React  ⭐⭐⭐⭐
- - Redux  ⭐⭐⭐
- ## Database engines
- - Microsoft SQL Server ⭐⭐⭐⭐
- - MySQL ⭐⭐⭐
- - PostgreSQL ⭐⭐⭐
- - MongoDB ⭐⭐
- - Firestore ⭐⭐
- 
-
-
- 
