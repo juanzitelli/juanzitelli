@@ -1,5 +1,5 @@
 # Juan Agustín Zitelli
-### Software engineering student @ UAI && Research and development intern @ CAETI, UAI
+### Systems Analyst, Advanced software engineering student @ UAI && Research and development intern @ CAETI, UAI
 
 🔭 I’m currently working on **My personal portfolio**, a Next.js and TypeScript app where you can know everything you need about me and my career in Software Engineering! [Check it out!](https://juanzitelli.dev/en)
 
