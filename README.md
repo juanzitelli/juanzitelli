@@ -7,6 +7,6 @@
 
 👯 I’m looking to collaborate on projects oriented to improve university student's productivity.
 
-📫 How to reach me: Fill the contact form and email me at [juanzitelli.dev/en/contact](https://www.juanzitelli.dev/en/contact/)! or find me as _juanzitelli_ at regular social media!
+📫 How to reach me: Fill the contact form and email me at [juanzitelli.dev/en/contact](https://juanzitelli.dev/es/contact)! or find me as _juanzitelli_ at regular social media!
 
 ⚡ Fun fact: I fell asleep for my first ever university group project exposition 💤💤💤
