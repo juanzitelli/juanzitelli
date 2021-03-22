@@ -1,5 +1,5 @@
-# Juan Agustín Zitelli
-### Systems Analyst, Advanced software engineering student @ UAI && Research and development intern @ CAETI, UAI
+# Juan Agustín Zitelli 👨🏼‍💻
+### Systems Analyst, Advanced software engineering student @ UAI && Fullstack JavaScript developer at Human Decode 🤖.
 
 🔭 I’m currently working on **My personal portfolio**, a Next.js and TypeScript app where you can know everything you need about me and my career in Software Engineering! [Check it out!](https://juanzitelli.dev/en)
 
