@@ -1,4 +1,4 @@
-<h1 align="center">Hey, what's poppin? I'm Juancho! 🤠</h1>
+<h1 align="center">Hey, what's poppin'? I'm Juancho! 🤠</h1>
 <h3 align="center">A TypeScript & Next.js enthusiast with a passion on learning new and shiny JS libraries.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanzitelli&label=Profile%20views&color=0e75b6&style=flat" alt="juanzitelli" /> </p>
