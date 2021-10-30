@@ -1,8 +1,9 @@
 <h1 align="center">Hey! I'm Juancho! 🤠</h1>
-<h3 align="center">An Argentina 🇦🇷 based TypeScript & Next.js enthusiast passioned about software and the english language 🇬🇧</h3>
+<h3 align="center">Welcome to my main github account! Here you'll find all sorts of projects for various purposes, feel free to utilize whatever I upload here for your own purposes. Just make sure to drop a line at <juanzitelli7@gmail.com>!</h3>
+  
+<blockquote>Note: If you got here because you're looking to hire me or to work with me. Be sure you'll leave this place with the greatest of impressions. 😁</blockquote>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanzitelli&label=Profile%20views&color=0e75b6&style=flat" alt="juanzitelli" /> </p>
-
 
 <p align="left"> <a href="https://twitter.com/juanzitelli" target="blank"><img src="https://img.shields.io/twitter/follow/juanzitelli?logo=twitter&style=for-the-badge" alt="juanzitelli" /></a> </p>
 
