@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Juancho! 🤠</h1>
-<h3 align="center">Welcome to my main github account! Here you'll find all sorts of projects for various purposes, feel free to utilize whatever I upload here for your own purposes. Just make sure to drop a line at <juanzitelli7@gmail.com>!</h3>
+<h3 align="center">Welcome to my main github account! Here you'll find all sorts of projects for various purposes, feel free to utilize whatever I upload here for your own purposes. Just make sure to drop a line at juanzitelli7@gmail.com <juanzitelli7@gmail.com>!</h3>
   
 <blockquote>Note: If you got here because you're looking to hire me or to work with me. Be sure you'll leave this place with the greatest of impressions. 😁</blockquote>
 
