@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [my personal portfolio website](https://github.com/juanzitelli/juanzitelli-dev)
 
-- 🌱 I’m currently learning **more on Next.js, Remix, Docker and to setup CI/CD pipelines**
+- 🌱 I’m currently learning **more on Remix, Docker and to setup CI/CD pipelines**
 
 - 👯 I’m looking to collaborate on **open sourced project oriented to productivity and self-management (yeah I'm talking about you, Notion)**
 
