@@ -22,5 +22,5 @@
   - For job proposals or recommendations.
 - [Twitter](https://twitter.com/juanzitelli/) 🐤 
   - For water-cooler conversations or non-technical debates.
-- [Email](mailto:juanzitelli7@gmail.com)📧 
+- [Email](mailto:juanzitelli7@gmail.com) 📧 
   - For more official issues or extensive dialogues.
